@@ -1,0 +1,19 @@
+@font-face{
+    font-family:myfont;
+    src: url(font/raleway_thin-webfont.woff)
+
+}
+.fontface{
+    font-family: myfont; 
+}
+p.fontgoogle{
+    font-family:'Roboto',sans-serif
+}
+body{
+    font-family:'Roboto',sans-serif
+
+}
+footer{
+    font-family:'Roboto',sans-serif  
+}
+
